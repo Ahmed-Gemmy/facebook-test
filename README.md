@@ -1,3 +1,3 @@
 # facebook-test
 
-The source code used in my blog http://ahmed-g-ali.blogspot.com about Maintainable UI Testing
+The source code used in my blog https://bioinfoswe.blogspot.com/ about Maintainable UI Testing
